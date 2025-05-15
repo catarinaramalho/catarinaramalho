@@ -1,7 +1,7 @@
 ### Hello, I am Catarina Ramalho 💖
 
-- 👩🏻‍🎓 I'm currently graduating in Computer Science at UFCG, but also, I am Technical in Informatics by IFPB too. 
-- 👩🏻‍💻 I’m currently learning about Unplugged Computing, Blockchain, Inclusive Education and The participation of girls in computing by media in social networks for the Elas Computação community.
+- 👩🏻‍🎓 I'm currently graduating in Medicine at UFCG, but also, I am Technical in Informatics by IFPB too. 
+- 👩🏻‍💻 I’m currently learning about Unplugged Computing, Blockchain, Inclusive Education, Oncology, Pedriatics, Neurology, Colletive Health and Digital Health.
 - 👩🏻‍🏫 I have already participated in monitoring programs on Blockchain at SENAI; Fundamentals of Mathematics for Computer Science and Porgramming II at UFCG. Futhermore, I was Junior Scientific Initiation Scholarship Researcher for the project "Proposal for the Application of Programming Concepts through Unplugged Computing in Students with Attention Deficit Hyperactivity Disorder (ADHD)" and for the research project “Study and Development of a Smart Contract for a Music Streaming Service” at IFPB; I was Volunteer Researcher in the Extension Project "Identifying Solutions for the Semiarid Region based on Entrepreneurship and Technological Innovation" and Volunteer Student Representative responsible for the Media of GT Ilimitados (IFPB) and of Elas Computação (UFCG).
 - 💬 I'm very curious and very excited to be a scientist!
 
